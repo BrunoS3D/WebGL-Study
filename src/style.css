@@ -14,5 +14,7 @@
 }
 
 #webgl-viewport {
-	max-width: 90%;
+	background: magenta;
+	image-rendering: pixelated;
+	border: 1px solid #000;
 }
